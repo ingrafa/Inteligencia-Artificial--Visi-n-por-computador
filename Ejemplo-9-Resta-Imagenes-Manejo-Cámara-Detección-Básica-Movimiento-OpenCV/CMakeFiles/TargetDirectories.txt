@@ -1,0 +1,3 @@
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-9-Resta-Imagenes-Manejo-Cámara-Detección-Básica-Movimiento-OpenCV/CMakeFiles/main.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-9-Resta-Imagenes-Manejo-Cámara-Detección-Básica-Movimiento-OpenCV/CMakeFiles/edit_cache.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-9-Resta-Imagenes-Manejo-Cámara-Detección-Básica-Movimiento-OpenCV/CMakeFiles/rebuild_cache.dir

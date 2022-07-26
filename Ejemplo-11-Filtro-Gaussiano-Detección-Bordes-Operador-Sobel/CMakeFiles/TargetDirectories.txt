@@ -1,0 +1,3 @@
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-11-Filtro-Gaussiano-Detección-Bordes-Operador-Sobel/CMakeFiles/main.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-11-Filtro-Gaussiano-Detección-Bordes-Operador-Sobel/CMakeFiles/edit_cache.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-11-Filtro-Gaussiano-Detección-Bordes-Operador-Sobel/CMakeFiles/rebuild_cache.dir

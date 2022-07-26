@@ -1,0 +1,3 @@
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-12-Operador-Laplace-Operador-Canny-Detección-Bordes-Binariazión-Umbral-Color-HSV/CMakeFiles/main.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-12-Operador-Laplace-Operador-Canny-Detección-Bordes-Binariazión-Umbral-Color-HSV/CMakeFiles/edit_cache.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-12-Operador-Laplace-Operador-Canny-Detección-Bordes-Binariazión-Umbral-Color-HSV/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-10-Ruido-Sal-y-Pimienta-Filtro-Mediana/CMakeFiles/main.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-10-Ruido-Sal-y-Pimienta-Filtro-Mediana/CMakeFiles/edit_cache.dir
+/home/rafael/Escritorio/OPENCV/gitHUbIA/Ejemplo-10-Ruido-Sal-y-Pimienta-Filtro-Mediana/CMakeFiles/rebuild_cache.dir
