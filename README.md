@@ -1,1 +1,1 @@
-# Inteligencia-Artificial--Visi-n-por-computador
+# Inteligencia-Artificial--VisiOn-por-computador
